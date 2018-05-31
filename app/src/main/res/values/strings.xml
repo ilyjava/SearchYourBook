@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SearchYourBook</string>
+    <string name="instructions">Введите автора или название книги, которую вы хотите найти</string>
+    <string name="input_hint">Введите ваш запрос</string>
+    <string name="button_text">Поиск</string>
+    <string name="no_search_term">Пожалуйста, введите запрос</string>
+    <string name="no_network">Проверьте ваше подключение к сети и попробуйте снова</string>
+    <string name="no_results">Результаты не найдены</string>
+    <string name="no_data">Нет данных</string>
+    <string name="dialog_title">Подождите, пожалуйста</string>
+    <string name="dialog_message">Идет загрузка книг</string>
+    <string name="error">Произошла ошибка</string>
+
+
+</resources>
